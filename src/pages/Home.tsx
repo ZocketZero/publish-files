@@ -8,7 +8,7 @@ export default function Home() {
         <h3>README</h3>
         <ul>
             <li>เว็บไซต์สำหรับเก็บและเผยแพร่ไฟล์ต่างๆ</li>
-            <li>source code ของเว็บไซต์อยู่ที่ <a href="https://github.com/Arikato111/publish-files">https://github.com/Arikato111/publish-files</a></li>
+            <li>source code ของเว็บไซต์อยู่ที่ <a href="https://github.com/ZocketZero/publish-files">https://github.com/ZocketZero/publish-files</a></li>
         </ul>
         <h4>การใช้งาน</h4>
         <ul>
